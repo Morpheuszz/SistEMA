@@ -168,3 +168,6 @@ body {
     bottom: 100%;
   }
 }
+b {
+  color: var(--verde);
+}
